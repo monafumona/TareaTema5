@@ -1,0 +1,13 @@
+AnchorPane{
+    -fx-background-image:url("https://media.tenor.com/5FmfYNNPcwQAAAAM/dance-music.gif") ;
+}
+
+Button{
+    -fx-background-color: white;
+    -fx-border-color: black;
+}
+
+Button:hover{
+    -fx-background-color: grey;
+    -fx-text-fill: white;
+}

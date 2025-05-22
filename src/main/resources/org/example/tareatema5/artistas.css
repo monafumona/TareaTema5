@@ -1,0 +1,19 @@
+Button{
+    -fx-background-color: white;
+    -fx-border-color: black;
+}
+
+Button:hover{
+    -fx-background-color: grey;
+    -fx-text-fill: white;
+}
+
+AnchorPane{
+    -fx-background-image: url("https://dnwp63qf32y8i.cloudfront.net/42bdfc7e6ec4740e7ea5bc2b64bbcef3b6f1d65e");
+}
+
+Label{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-border-color: black;
+}
